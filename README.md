@@ -54,7 +54,7 @@ Deep learning system using **CNNs** to detect fire/smoke patterns.
   *Electronics & ICT Academy, PDPM IIITDM Jabalpur (MoEIT, Govt. of India)*  
   📚 40-hour training: Agentic Loop, ReAct/CoT, MCP, LangGraph, AgentOps, Secure Deployment
 
-- **Google AI Professional Certificate** (May 2026)  
+- **Google AI Professional Certificate** (May 2026) [Link](https://www.coursera.org/account/accomplishments/professional-cert/60UB538CLQ6D) 
   *Coursera | 7 courses | 20+ AI artifacts*
 
 ---
