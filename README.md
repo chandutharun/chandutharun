@@ -35,6 +35,11 @@ Currently developing **secure AI solutions** at **Bharat Electronics Limited (BE
 Multi-agent AI code security tool with 5 agents (Security, Style, Fix, Compiler, Reporter).  
 ✅ 95% accuracy with Qwen 30B | 🌐 Supports 7 languages | 📄 PDF/HTML reports | 🐳 Docker Compose
 
+### 🎓 KCET AI Prep Assistant
+**Offline RAG-based exam prep assistant** for KCET using NCERT textbooks. Supports **English + Kannada** languages.
+✅ **100% Offline** (Ollama + ChromaDB) | 📚 **NCERT-based Q&A** | 📝 **PYQ Support** | 🌐 **English + Kannada Hybrid**
+🤖 **llama3.1** (English) + **sarvam-1** (Kannada) | 🐳 Docker Compose | ⚡ Auto Embedding
+
 ### 💬 Standalone Sahayak
 Enterprise chat assistant with **100% local inference** (Ollama), persistent MySQL session history, and RAG-based employee lookup.
 
